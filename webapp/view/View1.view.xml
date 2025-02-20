@@ -1,0 +1,9 @@
+<mvc:View controllerName="com.demo.b70sapui5.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="Yo soy la vista 1">
+        <content>
+            <Button text="Mi boton de ejemplo"></Button>
+        </content>
+    </Page>
+</mvc:View>

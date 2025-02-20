@@ -1,0 +1,9 @@
+<mvc:View controllerName="com.demo.b70sapui5.controller.View2"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="yo soy la vista 2">
+        <content>
+           
+        </content>
+    </Page>
+</mvc:View>
