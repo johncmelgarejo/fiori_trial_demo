@@ -4,6 +4,7 @@
     <Page id="page" title="Yo soy la vista 1">
         <content>
             <Button text="Mi boton de ejemplo"></Button>
+            <Label text="dummy text"></Label>
         </content>
     </Page>
 </mvc:View>
